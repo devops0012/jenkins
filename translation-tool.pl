@@ -486,5 +486,7 @@ Usage: $0 --lang=xx [options] [dir]
      - Remove all orphaned keys from German files which are in the current file
         $0 --lang=de --remove .
 
-";
+"
+this is my code
+i am modifying this to 2nd version;
 }
